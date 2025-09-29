@@ -1,0 +1,6 @@
+com\mycompany\post_test_4_pbo\Main.class
+model\Anime.class
+model\Playable.class
+model\SeriesAnime.class
+model\MovieAnime.class
+service\AnimeService.class
